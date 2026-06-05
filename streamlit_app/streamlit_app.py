@@ -6,7 +6,7 @@ import torchvision.transforms as T
 import numpy as np
 import os
 
-st.set_page_config(page_title="RMBG-2.0 Background Removal", page_icon="🎨")
+st.set_page_config(page_title="BackGone Background Removal", page_icon="🎨")
 
 st.title("🎨 RMBG-2.0 Background Removal")
 st.markdown("Upload an image to remove its background using AI")
